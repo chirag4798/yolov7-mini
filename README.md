@@ -4,6 +4,7 @@ Minified version of YoloV7 for inference.
 
 ## Instructions to run
 
+**Important**
 Clone this repo inside the [Yolov7 Repository](https://github.com/WongKinYiu/yolov7) and copy its content to YoloV7 repo.
 
 ```
