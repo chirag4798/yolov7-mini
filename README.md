@@ -4,10 +4,13 @@ Minified version of YoloV7 for inference.
 
 ## Instructions to run
 
-Clone this repo inside the [Yolov7 Repository](https://github.com/WongKinYiu/yolov7)
+Clone this repo inside the [Yolov7 Repository](https://github.com/WongKinYiu/yolov7) and copy its content to YoloV7 repo.
 
 ```
-git clone 
+git clone https://github.com/WongKinYiu/yolov7
+cd yolov7
+git clone https://github.com/chirag4798/yolov7-mini.git
+cp -r yolov7-mini/ ./
 ```
 
 Use the instructions from the help menu below
